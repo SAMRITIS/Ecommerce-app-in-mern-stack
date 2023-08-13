@@ -1,0 +1,16 @@
+.main {
+    background: linear-gradient(156deg, #4B773B 0%, rgba(58, 111, 40, 0.88) 33.33%, rgba(74, 149, 47, 0.76) 100%, #4A952F 100%);
+    box-shadow: 0px 4px 55px 0px rgba(51, 153, 68, 0.29);
+}
+.sec-div {
+    background-repeat: no-repeat;
+    background-size: 700px 790px;
+    
+}
+.hide-scroll-bar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .hide-scroll-bar::-webkit-scrollbar {
+    display: none;
+  }
